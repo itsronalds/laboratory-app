@@ -1,0 +1,10 @@
+.adminLogIn__bg {
+  background-image: url('./../../../assets/image-1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.adminLogIn__line {
+  width: 85.34px;
+}

@@ -1,0 +1,14 @@
+@media screen and (min-width: 768px) {
+  .adminTable__table::-webkit-scrollbar {
+    width: 12px;
+    height: 7px;
+  }
+
+  .adminTable__table::-webkit-scrollbar-track {
+    background-color: #7e7e7e;
+  }
+
+  .adminTable__table::-webkit-scrollbar-thumb {
+    background-color: #e0e0e0;
+  }
+}

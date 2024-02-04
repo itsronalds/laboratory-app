@@ -1,0 +1,11 @@
+.addExam__tableHeader,
+.addExam__tableBody {
+  width: 48rem;
+}
+
+@media screen and (min-width: 1024px) {
+  .addExam__tableHeader,
+  .addExam__tableBody {
+    width: auto;
+  }
+}
